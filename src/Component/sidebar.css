@@ -1,0 +1,33 @@
+/* #sidebar {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
+    background-color: #f8f9fa;
+  }
+  
+  #content {
+    margin-left: 250px;
+    padding: 15px;
+  }
+   */
+   /* .flex-items{
+    display: flex;
+    background-color: black;
+
+}
+
+.body{
+    margin-left: 200px;
+} */
+.p-21{
+    max-width: 900px;
+    height: 610px;
+    overflow-y: auto;
+    margin: 10px;
+}
+.p-2{
+    margin-left: 0px;
+}

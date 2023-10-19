@@ -1,0 +1,13 @@
+.registration-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 3px solid #000;  */
+    height: 50px; 
+  }
+  .scrollr.visible {
+    display: block;
+  }
+  
+  
+  
